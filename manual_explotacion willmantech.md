@@ -17,3 +17,11 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 - Servicios de generacion de archivos PDF
 
  ### El sistema permite gestionar:
+
+- Clientes
+
+- Ventas
+
+- Facturas
+- Informes de empresa
+- Exportacion de datos
