@@ -1,1 +1,0 @@
-# LMSGI_UD07_Sanchez_Colorado_Guillermo.
