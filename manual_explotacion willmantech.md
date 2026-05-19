@@ -6,7 +6,7 @@
 
 El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando Docker Compose 
 
- * Se divide la arquitectura en estos servicios:  *
+ ### Se divide la arquitectura en estos servicios:  
 
 - Servicio ERP principal
 
@@ -16,4 +16,4 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 
 - Servicios de generacion de archivos PDF
 
-El sistema permite gestionar:
+ ### El sistema permite gestionar:
