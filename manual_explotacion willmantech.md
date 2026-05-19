@@ -9,19 +9,14 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
  ### Se divide la arquitectura en estos servicios:  
 
 - Servicio ERP principal
-
 - Base de datos PostgreSQL
-
 - Servicio CRM para gestion comercial
-
 - Servicios de generacion de archivos PDF
 
  ### El sistema permite gestionar:
 
 - Clientes
-
 - Ventas
-
 - Facturas
 - Informes de empresa
 - Exportacion de datos
