@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------
 
-# 1. Introducción y Arquitectura
+## 1. Introducción y Arquitectura
 
 El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando Docker Compose 
 
