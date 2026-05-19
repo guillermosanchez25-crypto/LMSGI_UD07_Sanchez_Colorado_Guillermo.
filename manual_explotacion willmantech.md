@@ -20,3 +20,9 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 - Facturas
 - Informes de empresa
 - Exportacion de datos
+
+## 2. Guia de instalacion y reinstalación: 
+
+### Requisitos antes de empezar: 
+
+
