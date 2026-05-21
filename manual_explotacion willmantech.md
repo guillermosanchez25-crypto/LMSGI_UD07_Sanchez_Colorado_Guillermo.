@@ -55,3 +55,21 @@ POSTGRES_PASSWORD=admin
  docker compose down
  
  docker compose up -d
+
+
+ ## 2. Seguridad y Control de Acceso: 
+
+ ### 1. Controles de acceso (Roles):
+
+ Permisos de Administrador:
+
+ - Acceso completo
+ - Gestion de usuarios
+ - Configuracion total
+ - Administrar modulos
+
+Permisos de Contable:
+
+- Gestion de facturas
+- Gestion tributaria
+- Exportar informes
