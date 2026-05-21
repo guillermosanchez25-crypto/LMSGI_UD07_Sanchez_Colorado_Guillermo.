@@ -51,4 +51,5 @@ POSTGRES_PASSWORD=admin
  Reinstalas el entorno con:
 
  docker compose down
+ 
  docker compose up -d
