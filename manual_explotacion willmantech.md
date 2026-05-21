@@ -23,14 +23,14 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 
 ## 2. Guia de instalacion y reinstalación: 
 
-### 1. Requisitos antes de empezar: 
+  ### 1. Requisitos antes de empezar: 
 
 - Docker
 - Docker Compose
 - PostgreSQL
 - Acceso a la terminal de Linux
 
-  ### 2.En el entorno escribes:
+ ### 2.En el entorno escribes:
 
 POSTGRES_DB=erp
 
