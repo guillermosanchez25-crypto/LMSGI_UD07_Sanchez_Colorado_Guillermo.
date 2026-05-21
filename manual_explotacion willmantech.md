@@ -33,7 +33,9 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
   En el entorno escribes:
 
 POSTGRES_DB=erp
+
 POSTGRES_USER=odoo
+
 POSTGRES_PASSWORD=admin
 
  En la terminal escribes:
