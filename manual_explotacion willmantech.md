@@ -23,14 +23,14 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 
 ## 2. Guia de instalacion y reinstalación: 
 
-### Requisitos antes de empezar: 
+### 1. Requisitos antes de empezar: 
 
 - Docker
 - Docker Compose
 - PostgreSQL
 - Acceso a la terminal de Linux
 
-  En el entorno escribes:
+  ### 2.En el entorno escribes:
 
 POSTGRES_DB=erp
 
@@ -38,7 +38,7 @@ POSTGRES_USER=odoo
 
 POSTGRES_PASSWORD=admin
 
- En la terminal escribes:
+ ### 3. En la terminal escribes:
 
  docker compose up -d 
 
@@ -46,11 +46,11 @@ POSTGRES_PASSWORD=admin
 
  docker ps
 
- Desde el navegador:
+ ### 4. Desde el navegador:
 
  http://localhost:8069
 
- Reinstalas el entorno con:
+ ### 5. Reinstalas el entorno con:
 
  docker compose down
  
