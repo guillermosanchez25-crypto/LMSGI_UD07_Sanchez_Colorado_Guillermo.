@@ -25,4 +25,3 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 
 ### Requisitos antes de empezar: 
 
-
