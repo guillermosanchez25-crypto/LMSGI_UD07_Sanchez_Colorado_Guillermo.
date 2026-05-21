@@ -25,3 +25,30 @@ El sistema ERP/CRM ha sido desplegado mediaante contenedores Docker utilizando D
 
 ### Requisitos antes de empezar: 
 
+- Docker
+- Docker Compose
+- PostgreSQL
+- Acceso a la terminal de Linux
+
+  En el entorno escribes:
+
+POSTGRES_DB=erp
+POSTGRES_USER=odoo
+POSTGRES_PASSWORD=admin
+
+ En la terminal escribes:
+
+ docker compose up -d 
+
+ Y lo verificas con:
+
+ docker ps
+
+ Desde el navegador:
+
+ http://localhost:8069
+
+ Reinstalas el entorno con:
+
+ docker compose down
+ docker compose up -d
